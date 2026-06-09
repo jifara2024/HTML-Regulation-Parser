@@ -1,0 +1,27 @@
+{
+    "title": "Water Regulation Act 2024",
+    "chapters": [
+        {
+            "chapter": "Chapter 1",
+            "articles": [
+                {
+                    "article": "Article 1",
+                    "text": "This regulation applies..."
+                },
+                {
+                    "article": "Article 2",
+                    "text": "The ministry shall..."
+                }
+            ]
+        },
+        {
+            "chapter": "Chapter 1",
+            "articles": [
+                {
+                    "article": "Article 1",
+                    "text": "text"
+                }
+            ]
+        }
+    ]
+}
